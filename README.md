@@ -10,9 +10,7 @@ A responsive web application built with **Next.js 13+ App Router**, **React 18**
 - ⌨️ **Debounced search input** for performance
 - 📄 **User detail page** with:
   - Name, Bio, Location
-  - Company, Blog, Email, Twitter
-  - Followers, Following, Public Repos, Gists
-  - Hireable status, Join date
+  - Followers, Following
 - 🎨 Fully **responsive UI** with TailwindCSS
 - ⚡ Built using **Next.js 13 App Router** architecture
 
